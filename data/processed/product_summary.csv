@@ -1,0 +1,16 @@
+product,category,reviews,positive,neutral,negative,positive_pct,neutral_pct,negative_pct,avg_stars,avg_score
+AirBuds Pro,Electronics,67,23,13,31,34.33,19.4,46.27,3.0,-0.22
+Power Bank 10000mAh,Electronics,71,35,10,26,49.3,14.08,36.62,3.2,1.04
+Smart Watch X2,Electronics,56,25,12,19,44.64,21.43,33.93,3.05,0.88
+Green Tea Pack,Grocery,33,16,6,11,48.48,18.18,33.33,3.15,1.09
+Storage Organizer Box,Home & Kitchen,60,27,15,18,45.0,25.0,30.0,3.2,1.13
+Cotton Lawn Suit,Fashion,69,36,14,19,52.17,20.29,27.54,3.36,1.48
+Herbal Shampoo,Beauty,41,24,6,11,58.54,14.63,26.83,3.41,1.76
+Matte Lipstick Set,Beauty,41,22,8,11,53.66,19.51,26.83,3.44,1.46
+Classic Sneakers,Fashion,71,40,14,17,56.34,19.72,23.94,3.52,1.93
+Glow Face Serum,Beauty,46,25,10,11,54.35,21.74,23.91,3.57,1.8
+LED Table Lamp,Home & Kitchen,44,26,8,10,59.09,18.18,22.73,3.61,2.23
+Desi Ghee 1kg,Grocery,32,18,7,7,56.25,21.88,21.88,3.69,1.91
+Men's Kurta,Fashion,67,45,9,13,67.16,13.43,19.4,3.64,2.39
+Non-Stick Cookware Set,Home & Kitchen,42,25,10,7,59.52,23.81,16.67,3.6,2.19
+Basmati Rice 5kg,Grocery,40,21,13,6,52.5,32.5,15.0,3.45,2.0

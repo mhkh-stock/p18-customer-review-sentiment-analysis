@@ -1,0 +1,4 @@
+channel,reviews,positive,neutral,negative,positive_pct,neutral_pct,negative_pct,avg_stars,avg_score
+Website,358,195,66,97,54.47,18.44,27.09,3.4,1.63
+Daraz,267,126,53,88,47.19,19.85,32.96,3.2,1.06
+WhatsApp / Instagram,155,87,36,32,56.13,23.23,20.65,3.61,1.88

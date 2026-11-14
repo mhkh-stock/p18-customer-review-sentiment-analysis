@@ -1,0 +1,497 @@
+{
+  "shop": "BazaarHub.pk (SAMPLE)",
+  "period": "2026-01-01 to 2026-06-30",
+  "days": 181,
+  "total_reviews": 780,
+  "sentiment_mix": {
+    "reviews": 780,
+    "positive": 408,
+    "neutral": 155,
+    "negative": 217,
+    "positive_pct": 52.31,
+    "neutral_pct": 19.87,
+    "negative_pct": 27.82,
+    "avg_stars": 3.37,
+    "avg_score": 1.48
+  },
+  "avg_stars": 3.37,
+  "categories": [
+    {
+      "category": "Electronics",
+      "reviews": 194,
+      "positive": 83,
+      "neutral": 35,
+      "negative": 76,
+      "positive_pct": 42.78,
+      "neutral_pct": 18.04,
+      "negative_pct": 39.18,
+      "avg_stars": 3.09,
+      "avg_score": 0.56
+    },
+    {
+      "category": "Fashion",
+      "reviews": 207,
+      "positive": 121,
+      "neutral": 37,
+      "negative": 49,
+      "positive_pct": 58.45,
+      "neutral_pct": 17.87,
+      "negative_pct": 23.67,
+      "avg_stars": 3.51,
+      "avg_score": 1.93
+    },
+    {
+      "category": "Home & Kitchen",
+      "reviews": 146,
+      "positive": 78,
+      "neutral": 33,
+      "negative": 35,
+      "positive_pct": 53.42,
+      "neutral_pct": 22.6,
+      "negative_pct": 23.97,
+      "avg_stars": 3.44,
+      "avg_score": 1.77
+    },
+    {
+      "category": "Beauty",
+      "reviews": 128,
+      "positive": 71,
+      "neutral": 24,
+      "negative": 33,
+      "positive_pct": 55.47,
+      "neutral_pct": 18.75,
+      "negative_pct": 25.78,
+      "avg_stars": 3.48,
+      "avg_score": 1.68
+    },
+    {
+      "category": "Grocery",
+      "reviews": 105,
+      "positive": 55,
+      "neutral": 26,
+      "negative": 24,
+      "positive_pct": 52.38,
+      "neutral_pct": 24.76,
+      "negative_pct": 22.86,
+      "avg_stars": 3.43,
+      "avg_score": 1.69
+    }
+  ],
+  "best_category": "Grocery",
+  "best_category_negative_pct": 22.86,
+  "worst_category": "Electronics",
+  "worst_category_negative_pct": 39.18,
+  "channels": [
+    {
+      "channel": "Website",
+      "reviews": 358,
+      "positive": 195,
+      "neutral": 66,
+      "negative": 97,
+      "positive_pct": 54.47,
+      "neutral_pct": 18.44,
+      "negative_pct": 27.09,
+      "avg_stars": 3.4,
+      "avg_score": 1.63
+    },
+    {
+      "channel": "Daraz",
+      "reviews": 267,
+      "positive": 126,
+      "neutral": 53,
+      "negative": 88,
+      "positive_pct": 47.19,
+      "neutral_pct": 19.85,
+      "negative_pct": 32.96,
+      "avg_stars": 3.2,
+      "avg_score": 1.06
+    },
+    {
+      "channel": "WhatsApp / Instagram",
+      "reviews": 155,
+      "positive": 87,
+      "neutral": 36,
+      "negative": 32,
+      "positive_pct": 56.13,
+      "neutral_pct": 23.23,
+      "negative_pct": 20.65,
+      "avg_stars": 3.61,
+      "avg_score": 1.88
+    }
+  ],
+  "best_channel": "WhatsApp / Instagram",
+  "best_channel_negative_pct": 20.65,
+  "worst_channel": "Daraz",
+  "worst_channel_negative_pct": 32.96,
+  "months": [
+    {
+      "month": "2026-01",
+      "reviews": 103,
+      "positive": 48,
+      "neutral": 20,
+      "negative": 35,
+      "positive_pct": 46.6,
+      "neutral_pct": 19.42,
+      "negative_pct": 33.98,
+      "avg_stars": 3.33,
+      "avg_score": 0.99,
+      "neg_pct_change_points": null
+    },
+    {
+      "month": "2026-02",
+      "reviews": 112,
+      "positive": 54,
+      "neutral": 22,
+      "negative": 36,
+      "positive_pct": 48.21,
+      "neutral_pct": 19.64,
+      "negative_pct": 32.14,
+      "avg_stars": 3.2,
+      "avg_score": 1.13,
+      "neg_pct_change_points": -1.84
+    },
+    {
+      "month": "2026-03",
+      "reviews": 125,
+      "positive": 61,
+      "neutral": 30,
+      "negative": 34,
+      "positive_pct": 48.8,
+      "neutral_pct": 24.0,
+      "negative_pct": 27.2,
+      "avg_stars": 3.31,
+      "avg_score": 1.33,
+      "neg_pct_change_points": -4.94
+    },
+    {
+      "month": "2026-04",
+      "reviews": 154,
+      "positive": 82,
+      "neutral": 37,
+      "negative": 35,
+      "positive_pct": 53.25,
+      "neutral_pct": 24.03,
+      "negative_pct": 22.73,
+      "avg_stars": 3.37,
+      "avg_score": 1.67,
+      "neg_pct_change_points": -4.47
+    },
+    {
+      "month": "2026-05",
+      "reviews": 127,
+      "positive": 65,
+      "neutral": 25,
+      "negative": 37,
+      "positive_pct": 51.18,
+      "neutral_pct": 19.69,
+      "negative_pct": 29.13,
+      "avg_stars": 3.35,
+      "avg_score": 1.36,
+      "neg_pct_change_points": 6.4
+    },
+    {
+      "month": "2026-06",
+      "reviews": 159,
+      "positive": 98,
+      "neutral": 21,
+      "negative": 40,
+      "positive_pct": 61.64,
+      "neutral_pct": 13.21,
+      "negative_pct": 25.16,
+      "avg_stars": 3.6,
+      "avg_score": 2.09,
+      "neg_pct_change_points": -3.97
+    }
+  ],
+  "negative_trend_jan_to_jun_points": -8.82,
+  "products": [
+    {
+      "product": "AirBuds Pro",
+      "category": "Electronics",
+      "reviews": 67,
+      "positive": 23,
+      "neutral": 13,
+      "negative": 31,
+      "positive_pct": 34.33,
+      "neutral_pct": 19.4,
+      "negative_pct": 46.27,
+      "avg_stars": 3.0,
+      "avg_score": -0.22
+    },
+    {
+      "product": "Power Bank 10000mAh",
+      "category": "Electronics",
+      "reviews": 71,
+      "positive": 35,
+      "neutral": 10,
+      "negative": 26,
+      "positive_pct": 49.3,
+      "neutral_pct": 14.08,
+      "negative_pct": 36.62,
+      "avg_stars": 3.2,
+      "avg_score": 1.04
+    },
+    {
+      "product": "Smart Watch X2",
+      "category": "Electronics",
+      "reviews": 56,
+      "positive": 25,
+      "neutral": 12,
+      "negative": 19,
+      "positive_pct": 44.64,
+      "neutral_pct": 21.43,
+      "negative_pct": 33.93,
+      "avg_stars": 3.05,
+      "avg_score": 0.88
+    },
+    {
+      "product": "Green Tea Pack",
+      "category": "Grocery",
+      "reviews": 33,
+      "positive": 16,
+      "neutral": 6,
+      "negative": 11,
+      "positive_pct": 48.48,
+      "neutral_pct": 18.18,
+      "negative_pct": 33.33,
+      "avg_stars": 3.15,
+      "avg_score": 1.09
+    },
+    {
+      "product": "Storage Organizer Box",
+      "category": "Home & Kitchen",
+      "reviews": 60,
+      "positive": 27,
+      "neutral": 15,
+      "negative": 18,
+      "positive_pct": 45.0,
+      "neutral_pct": 25.0,
+      "negative_pct": 30.0,
+      "avg_stars": 3.2,
+      "avg_score": 1.13
+    },
+    {
+      "product": "Cotton Lawn Suit",
+      "category": "Fashion",
+      "reviews": 69,
+      "positive": 36,
+      "neutral": 14,
+      "negative": 19,
+      "positive_pct": 52.17,
+      "neutral_pct": 20.29,
+      "negative_pct": 27.54,
+      "avg_stars": 3.36,
+      "avg_score": 1.48
+    },
+    {
+      "product": "Herbal Shampoo",
+      "category": "Beauty",
+      "reviews": 41,
+      "positive": 24,
+      "neutral": 6,
+      "negative": 11,
+      "positive_pct": 58.54,
+      "neutral_pct": 14.63,
+      "negative_pct": 26.83,
+      "avg_stars": 3.41,
+      "avg_score": 1.76
+    },
+    {
+      "product": "Matte Lipstick Set",
+      "category": "Beauty",
+      "reviews": 41,
+      "positive": 22,
+      "neutral": 8,
+      "negative": 11,
+      "positive_pct": 53.66,
+      "neutral_pct": 19.51,
+      "negative_pct": 26.83,
+      "avg_stars": 3.44,
+      "avg_score": 1.46
+    },
+    {
+      "product": "Classic Sneakers",
+      "category": "Fashion",
+      "reviews": 71,
+      "positive": 40,
+      "neutral": 14,
+      "negative": 17,
+      "positive_pct": 56.34,
+      "neutral_pct": 19.72,
+      "negative_pct": 23.94,
+      "avg_stars": 3.52,
+      "avg_score": 1.93
+    },
+    {
+      "product": "Glow Face Serum",
+      "category": "Beauty",
+      "reviews": 46,
+      "positive": 25,
+      "neutral": 10,
+      "negative": 11,
+      "positive_pct": 54.35,
+      "neutral_pct": 21.74,
+      "negative_pct": 23.91,
+      "avg_stars": 3.57,
+      "avg_score": 1.8
+    },
+    {
+      "product": "LED Table Lamp",
+      "category": "Home & Kitchen",
+      "reviews": 44,
+      "positive": 26,
+      "neutral": 8,
+      "negative": 10,
+      "positive_pct": 59.09,
+      "neutral_pct": 18.18,
+      "negative_pct": 22.73,
+      "avg_stars": 3.61,
+      "avg_score": 2.23
+    },
+    {
+      "product": "Desi Ghee 1kg",
+      "category": "Grocery",
+      "reviews": 32,
+      "positive": 18,
+      "neutral": 7,
+      "negative": 7,
+      "positive_pct": 56.25,
+      "neutral_pct": 21.88,
+      "negative_pct": 21.88,
+      "avg_stars": 3.69,
+      "avg_score": 1.91
+    },
+    {
+      "product": "Men's Kurta",
+      "category": "Fashion",
+      "reviews": 67,
+      "positive": 45,
+      "neutral": 9,
+      "negative": 13,
+      "positive_pct": 67.16,
+      "neutral_pct": 13.43,
+      "negative_pct": 19.4,
+      "avg_stars": 3.64,
+      "avg_score": 2.39
+    },
+    {
+      "product": "Non-Stick Cookware Set",
+      "category": "Home & Kitchen",
+      "reviews": 42,
+      "positive": 25,
+      "neutral": 10,
+      "negative": 7,
+      "positive_pct": 59.52,
+      "neutral_pct": 23.81,
+      "negative_pct": 16.67,
+      "avg_stars": 3.6,
+      "avg_score": 2.19
+    },
+    {
+      "product": "Basmati Rice 5kg",
+      "category": "Grocery",
+      "reviews": 40,
+      "positive": 21,
+      "neutral": 13,
+      "negative": 6,
+      "positive_pct": 52.5,
+      "neutral_pct": 32.5,
+      "negative_pct": 15.0,
+      "avg_stars": 3.45,
+      "avg_score": 2.0
+    }
+  ],
+  "worst_product": "AirBuds Pro",
+  "worst_product_negative_pct": 46.27,
+  "best_product": "Basmati Rice 5kg",
+  "best_product_negative_pct": 15.0,
+  "crosstab": {
+    "Positive": {
+      "1-2 stars": 16,
+      "3 stars": 0,
+      "4-5 stars": 392
+    },
+    "Neutral": {
+      "1-2 stars": 27,
+      "3 stars": 102,
+      "4-5 stars": 26
+    },
+    "Negative": {
+      "1-2 stars": 207,
+      "3 stars": 0,
+      "4-5 stars": 10
+    }
+  },
+  "agreement": 701,
+  "agreement_pct": 89.87,
+  "disagreement": 79,
+  "five_star_negative": 5,
+  "one_star_positive": 5,
+  "themes": [
+    {
+      "theme": "Damaged product",
+      "reviews": 121,
+      "pct_of_all": 15.51,
+      "pct_of_negative": 55.76
+    },
+    {
+      "theme": "Price",
+      "reviews": 79,
+      "pct_of_all": 10.13,
+      "pct_of_negative": 36.41
+    },
+    {
+      "theme": "Poor quality",
+      "reviews": 59,
+      "pct_of_all": 7.56,
+      "pct_of_negative": 27.19
+    },
+    {
+      "theme": "Customer service",
+      "reviews": 46,
+      "pct_of_all": 5.9,
+      "pct_of_negative": 21.2
+    },
+    {
+      "theme": "Late delivery",
+      "reviews": 33,
+      "pct_of_all": 4.23,
+      "pct_of_negative": 15.21
+    },
+    {
+      "theme": "Size / fit",
+      "reviews": 23,
+      "pct_of_all": 2.95,
+      "pct_of_negative": 10.6
+    },
+    {
+      "theme": "Packaging",
+      "reviews": 19,
+      "pct_of_all": 2.44,
+      "pct_of_negative": 8.76
+    },
+    {
+      "theme": "Wrong item",
+      "reviews": 18,
+      "pct_of_all": 2.31,
+      "pct_of_negative": 8.29
+    }
+  ],
+  "top_theme": "Damaged product",
+  "reviews_with_a_theme": 203,
+  "negative_reviews_with_a_theme": 203,
+  "actions": [
+    {
+      "title": "Fix AirBuds Pro first",
+      "detail": "31 of its 67 reviews are negative (46.27%) \u2014 the worst of all 15 products and 18.5 points above the store average. Check the batch for defects before the next restock, and pause paid promotion for it until the complaint rate falls."
+    },
+    {
+      "title": "Fix damaged product \u2014 the top complaint",
+      "detail": "Damaged product appears in 121 reviews (15.51% of all reviews, 55.76% of negative ones). It is the single biggest driver of bad sentiment; every review that mentions it is a customer the store is close to losing."
+    },
+    {
+      "title": "Fix delivery on Daraz",
+      "detail": "Daraz is the most negative channel at 32.96% negative (88 of 267 reviews), against 20.65% on WhatsApp / Instagram. Renegotiate the courier or switch the Daraz fulfilment option before spending more on marketplace ads."
+    }
+  ]
+}
